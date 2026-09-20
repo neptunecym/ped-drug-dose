@@ -13,7 +13,7 @@ const DRUGS = [
     ampuleConcMgPerMl: 1,
     doseMassUnit: "mcg",
     doseTimeUnit: "min",
-    centralMaxMcgPerMl: 64,
+    centralMaxMcgPerMl: 100,
     peripheralMaxMcgPerMl: 16,
   },
   {
@@ -26,7 +26,7 @@ const DRUGS = [
     doseMassUnit: "mcg",
     doseTimeUnit: "min",
     centralMaxMcgPerMl: 64,
-    peripheralMaxMcgPerMl: 16,
+    peripheralMaxMcgPerMl: 32,
   },
   {
     id: "dopamine",
@@ -37,8 +37,8 @@ const DRUGS = [
     ampuleConcMgPerMl: 25,
     doseMassUnit: "mcg",
     doseTimeUnit: "min",
-    centralMaxMcgPerMl: 6000,
-    peripheralMaxMcgPerMl: 800,
+    centralMaxMcgPerMl: 3200,
+    peripheralMaxMcgPerMl: 1600,
   },
   {
     id: "dobutamine",

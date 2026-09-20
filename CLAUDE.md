@@ -42,9 +42,9 @@ exceedsMax             = concentration > maxConcentration
 
 | ยา | Ampule | หน่วย dose | Central max | Peripheral max | หมายเหตุ |
 |---|---|---|---|---|---|
-| Adrenaline (Epinephrine) | 1 mg/ml | mcg/kg/min | 64 mcg/ml | 16 mcg/ml | |
-| Levophed (Norepinephrine) | 4 mg/4 ml (1 mg/ml) | mcg/kg/min | 64 mcg/ml | 16 mcg/ml | |
-| Dopamine | 250 mg/10 ml (25 mg/ml) | mcg/kg/min | 6000 mcg/ml | 800 mcg/ml | |
+| Adrenaline (Epinephrine) | 1 mg/ml | mcg/kg/min | 100 mcg/ml | 16 mcg/ml | |
+| Levophed (Norepinephrine) | 4 mg/4 ml (1 mg/ml) | mcg/kg/min | 64 mcg/ml | 32 mcg/ml | |
+| Dopamine | 250 mg/10 ml (25 mg/ml) | mcg/kg/min | 3200 mcg/ml (3.2 mg/ml) | 1600 mcg/ml (1.6 mg/ml) | |
 | Dobutamine | 250 mg/20 ml (12.5 mg/ml) | mcg/kg/min | 5000 mcg/ml | 5000 mcg/ml | peripheral max = central max ตามที่ผู้ใช้ยืนยัน |
 | Milrinone | 10 mg/10 ml (1 mg/ml) | mcg/kg/min | 200 mcg/ml | 200 mcg/ml | peripheral max = central max ตามที่ผู้ใช้ยืนยัน |
 | Amiodarone | 50 mg/ml | mcg/kg/min | 6000 mcg/ml (6 mg/ml) | 2000 mcg/ml (2 mg/ml) | ผู้ใช้ให้มาเป็น mg/ml แปลงเป็น mcg/ml เพื่อเก็บหน่วยเดียวกันทั้งระบบ |
