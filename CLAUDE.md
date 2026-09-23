@@ -7,7 +7,7 @@ Vanilla HTML/CSS/JavaScript ล้วน ไม่มี framework, ไม่ม
 
 ## โครงสร้างไฟล์
 - `index.html` — โครงหน้า (header, disclaimer, ช่องกรอกน้ำหนัก/route, 2 section แยกตามหมวดยา, footer)
-- `style.css` — ธีมสีขาว/ชมพู/เทา (สีหลักปรับได้ที่ `--color-primary` ใน `:root`), การ์ดยาแยกสีต่อชนิด, responsive layout, ใช้ฟอนต์ Noto Sans Thai (โหลดจาก Google Fonts ใน `index.html`) เพื่อให้ตัวอักษรไทยและอังกฤษมีลักษณะเดียวกัน — หากไม่มีอินเทอร์เน็ตตอนเปิดครั้งแรก จะ fallback ไปใช้ฟอนต์ของระบบแทน
+- `style.css` — ธีมสีขาว/ชมพู/เทา (สีหลักปรับได้ที่ `--color-primary` ใน `:root`), header สีขาวคาดเส้นขอบล่างสีชมพู (`--color-primary`) พร้อมหัวข้อสีชมพูเข้ม (`--color-primary-dark`) ปรับรูปแบบตามเว็บ pedi-cpr.vercel.app แต่ใช้โทนชมพูแทนน้ำเงิน, การ์ดยาแยกสีต่อชนิด, responsive layout, ใช้ฟอนต์ Sarabun (โหลดจาก Google Fonts ใน `index.html`) เพื่อให้ตัวอักษรไทยและอังกฤษมีลักษณะเดียวกัน — หากไม่มีอินเทอร์เน็ตตอนเปิดครั้งแรก จะ fallback ไปใช้ฟอนต์ของระบบแทน
 - `script.js` — ข้อมูลยา (`DRUGS`) และตรรกะการคำนวณ/แสดงผลทั้งหมด
 - `CLAUDE.md` — เอกสารนี้
 
